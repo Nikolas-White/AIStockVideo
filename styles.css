@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+#upload-section, #search-section {
+    margin: 20px 0;
+}
+
+#search-bar {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#video-results {
+    margin-top: 20px;
+}
+
+video {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+}
